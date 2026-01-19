@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+venv_final/
+wheels/
+asl_dataset/
+
+# Large Files
+*.zip
+*.rar
+*.tar.gz
+
+# Runtime/Output
+output.txt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
