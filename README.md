@@ -4,7 +4,7 @@ This project is a real-time American Sign Language (ASL) detection application. 
 
 ## 🌟 Introduction
 
-The application bridges the communication gap by interpreting ASL gestures in real-time. It leverages a Python-based deep learning model for gesture recognition and presents the output through a modern, user-friendly React frontend.
+The application bridges the communication gap by interpreting ASL gestures in real-time. It leverages a Python-based machine learning model for gesture recognition and presents the output through a modern, user-friendly React frontend.
 
 ## 🔄 Workflow
 
